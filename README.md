@@ -25,7 +25,7 @@ To get started, we’ll deploy the Wazuh Server locally on VMware. For more deta
 
 3. **Log In and Verify Deployment**:
    Once the server starts, log in using the default credentials. The terminal below confirms the successful deployment of Wazuh:
-   ![Terminal](https://raw.githubusercontent.com//LITHUM1/Wazuh-Home-Lab/main/Assets/up-and-running.png)
+   (https://raw.githubusercontent.com//LITHUM1/Wazuh-Home-Lab/main/Assets/up-and-running.png)
 
 4. **Access the Wazuh Web Portal**:
    You can find the machine's IP by running the command `ip a`. Enter this IP into your browser to access the portal.
