@@ -116,7 +116,7 @@ This brings us into their SIEM query editor. Additionally you can put on more fi
 
 ![event-1t078](https://raw.githubusercontent.com//LITHUM1/Wazuh-Home-Lab/main/Assets/event-t1078.png)
 
-Expanding on teh results an event log showing a new service being created.
+Expanding on the results an event log showing a new service being created.
 
 ![explanding](https://raw.githubusercontent.com//LITHUM1/Wazuh-Home-Lab/main/Assets/script.png)
 
