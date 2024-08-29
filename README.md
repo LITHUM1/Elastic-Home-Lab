@@ -18,10 +18,16 @@ Starting off we going to download the Wazuh server image OVA
 
 After downloading and launching it using VMware, we wait a couple of minutes for it.
 After waiting for it to start we log in usinmg default credentials, we see the terminal below indicates taht the deployment of Wazuh is successful
+
+
 ![terminal](https://raw.githubusercontent.com//LITHUM1/Wazuh-Home-Lab/main/Assets/up-and-running.png)
+
+
 You can find the ip of the machine by running command "ip a"
 Now what we have the ip, we enter the ip we got into browser to access the portal 
+
 ![portal](https://raw.githubusercontent.com//LITHUM1/Wazuh-Home-Lab/main/Assets/Wazuh-portal.png)
+
 and default credentails are admin:admin 
 
 
