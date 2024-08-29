@@ -10,7 +10,7 @@ tools we gonna use in our home lab
 
 EEnvironment Setup
 Deploying Wazuh Server VM
-To get started we’re going to deploy the Wazuh Server locally on a VMware. Read more [documentation](link)
+To get started we’re going to deploy the Wazuh Server locally on a VMware. Read more [documentation](https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html)
 
 Starting off we going to download the Wazuh server image OVA 
 ![Download](https://raw.githubusercontent.com//LITHUM1/Wazuh-Home-Lab/main/Assets/Download-Wazuh-server-image.png)
