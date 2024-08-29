@@ -1,3 +1,6 @@
+
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/LITHUM1/Wazuh-Home-Lab/blob/main/README.RU.md)
+
 # WAZUH-Home-Lab
 home lab for WAZUH Stack Security Information and Event Management (SIEM) using the WAZUH Web portal and a Kali Linux VM
 
